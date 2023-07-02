@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OjasUmredkar
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Fullstack development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ojasumredkar2899@gmail.com
 
 <!---
