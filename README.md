@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" width="100%" height="200">
 # Hi, I’m @OjasUmredkar 👋
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Fullstack development
