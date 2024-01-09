@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" width="100%" height="200">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OjasUmredkar&label=Profile%20views&color=0e75b6&style=flat" alt="OjasUmredkar" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=OjasUmredkar&label=Profile%20views&color=0e75b6&style=flat" alt="OjasUmredkar" /> </p> -->
 # Hi, I’m @OjasUmredkar 👋<br/>
 - 👀 I’m interested in Backend Development<br/>
 - 🌱 I’m currently learning Fullstack development<br/>
